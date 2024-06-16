@@ -1,7 +1,7 @@
 # Windows on LG
 This repository aims to provide a seamless experience for users to enjoy Windows on their LG device.
 
-[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/lgedevices)
+[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woahelperchat)
 
 ## Supported devices
 - [LG G8](https://github.com/n00b69/woa-alphaplus)
