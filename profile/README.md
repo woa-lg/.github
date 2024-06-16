@@ -3,6 +3,9 @@ This repository aims to provide a seamless experience for users to enjoy Windows
 
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woahelperchat)
 
+### ⚠️ Disclaimer
+Do not trust any other projects such as "woa-lge", these projects are using outdated methods or files that may cause serious harm to your device.
+
 ## Supported devices
 - [LG G8](https://github.com/n00b69/woa-alphaplus)
 
@@ -13,7 +16,6 @@ This repository aims to provide a seamless experience for users to enjoy Windows
 - [LG V50](https://github.com/n00b69/woa-flashlmdd)
 
 - [LG V50S](https://github.com/n00b69/woa-mh2lm5g)
-
 
 
 
